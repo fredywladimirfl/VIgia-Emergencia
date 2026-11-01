@@ -1,0 +1,7 @@
+{
+  "name": "Vigía Forestal - Seguridad de Bomberos",
+  "description": "Sistema táctico de seguridad operacional para bomberos en incendios forestales en Chile: Protocolo OCEL, regla 30-30-30, control de dotación PAR, alerta MAYDAY y monitoreo en el frente de fuego.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
